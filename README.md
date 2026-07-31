@@ -13,7 +13,7 @@ I'm currently completing my third year and will be updating this repository as I
 | Folder | Content | Studied Languages |
 | :--- | :--- | :--- |
 | **`1° Año/`** | First year: Basic concepts of Data Structures, Logic, Math, and Computer Architecture | Pascal, Java |
-| **`2° Año/`** | Second year: OOP (Inheritance and Polymorphism), Android Studio project, Data Base design, GNU/Linux, and Software Engineering | Pascal, Java, Kotlin, SQL, Bash |
+| **`2° Año/`** | Second year: OOP (Inheritance and Polymorphism), Android Studio project, Data Base design, GNU/Linux, and Software Engineering | Java, Kotlin, SQL, Bash |
 | **`3° Año/`** | Third year courses: More OOP (Refactoring, Patterns and Frameworks), Probability and Statistics, and more... (In progress) | Java, ... |
 
 ---
@@ -28,5 +28,5 @@ Me encuentro actualmente en el tercer año y voy a ir actualizando este reposito
 | Carpeta | Contenido | Lenguajes Estudiados
 | :--- | :--- | :--- |
 | **`1° Año/`** | Primer año: Conceptos básicos de Estructuras de Datos, Lógica, Matemática y Arquitectura de Computadoras | Pascal, Java |
-| **`2° Año/`** | Segundo año: POO (Herencia y Polimorfismo), proyecto con Android Studio, diseño de Bases de Datos, GNU/Linux e Ingeniería de Software | Pascal, Java, Kotlin, SQL, Bash |
+| **`2° Año/`** | Segundo año: POO (Herencia y Polimorfismo), proyecto con Android Studio, diseño de Bases de Datos, GNU/Linux e Ingeniería de Software | Java, Kotlin, SQL, Bash |
 | **`3° Año/`** | Tercer año: Más POO (Refactoring, Patrones y Frameworks), Probabilidad y Estadística, y más... (En progreso) | Java, ... |
