@@ -1,4 +1,4 @@
-# 📚 My CS Studies / Mis estudios de la facultad
+# 📚 My college studies / Mis estudios universitarios
 
 
 ---
@@ -20,7 +20,7 @@ I'm currently completing my third year and will be updating this repository as I
 
 ## 🇪🇸 Español
 
-Este es un archivo personal que incluye conceptos teóricos y explicaciones de ejercicios que he acumulado durante mis estudios en la facultad.
+Este es un archivo personal que incluye conceptos teóricos y explicaciones de ejercicios que he acumulado durante mis estudios universitarios.
 Las carpetas, archivos y todo el contenido encontrado en este repositorio están en Español.
 Me encuentro actualmente en el tercer año y voy a ir actualizando este repositorio a medida que progreso.
 
