@@ -12,11 +12,11 @@ The folders, files and all the content found in this repository are all in Spani
 I'm currently completing my third year and will be updating this repository as I progress.
 
 ### 🗂️ Structure
-| Folder | Content |
+| Folder | Content | Studied Languages
 | :--- | :--- |
-| **`1° Año/`** | First year: Basic concepts of Data Structures, Logic, Math, and Computer Architecture |
-| **`2° Año/`** | Second year: OOP (Inheritance and Polymorphism), Data Base design and SQL language, GNU/Linux, and Software Engineering |
-| **`3° Año/`** | Third year courses: More OOP (Refactoring, Patterns and Frameworks), Probability and Statistics, and more... (In progress) |
+| **`1° Año/`** | First year: Basic concepts of Data Structures, Logic, Math, and Computer Architecture | Pascal, Java
+| **`2° Año/`** | Second year: OOP (Inheritance and Polymorphism), Data Base design and SQL language, GNU/Linux, Android Studio project, and Software Engineering | Pascal, Java, Kotlin, Bash
+| **`3° Año/`** | Third year courses: More OOP (Refactoring, Patterns and Frameworks), Probability and Statistics, and more... (In progress) | Java, ...
 
 ---
 
@@ -28,8 +28,8 @@ Las carpetas, archivos y todo el contenido encontrado en este repositorio están
 Me encuentro actualmente en el tercer año y voy a ir actualizando este repositorio a medida que progreso.
 
 ### 🗂️ Estructura
-| Carpeta | Contenido |
+| Carpeta | Contenido | Lenguajes Estudiados
 | :--- | :--- |
-| **`1° Año/`** | Primer año: Conceptos básicos de Estructuras de Datos, Lógica, Matemática y Arquitectura de Computadoras |
-| **`2° Año/`** | Segundo año: POO (Herencia y Polimorfismo), diseño de Bases de Datos y lenguaje SQL, GNU-Linux e Ingeniería de Software |
-| **`3° Año/`** | Tercer año: Más POO (Refactoring, Patrones y Frameworks), Probabilidad y Estadística, y más (En progreso) |
+| **`1° Año/`** | Primer año: Conceptos básicos de Estructuras de Datos, Lógica, Matemática y Arquitectura de Computadoras | Pascal, Java
+| **`2° Año/`** | Segundo año: POO (Herencia y Polimorfismo), diseño de Bases de Datos y lenguaje SQL, GNU-Linux, proyecto con Android Studio e Ingeniería de Software | Pascal, Java, Kotlin, Bash
+| **`3° Año/`** | Tercer año: Más POO (Refactoring, Patrones y Frameworks), Probabilidad y Estadística, y más (En progreso) | Java, ...
