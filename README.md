@@ -14,7 +14,7 @@ I'm currently completing my third year and will be updating this repository as I
 | :--- | :--- | :--- |
 | **`1° Año/`** | First year: Basic concepts of Data Structures, Logic, Math, and Computer Architecture | Pascal, Java |
 | **`2° Año/`** | Second year: OOP (Inheritance and Polymorphism), Android Studio project, Data Base design, GNU/Linux, and Software Engineering | Java, Kotlin, SQL, Bash |
-| **`3° Año/`** | Third year courses: More OOP (Refactoring, Patterns and Frameworks), Probability and Statistics, and more... (In progress) | Java, ... |
+| **`3° Año/`** | Third year: More OOP (Refactoring, Patterns and Frameworks), Probability and Statistics, and more... (In progress) | Java, ... |
 
 ---
 
